@@ -3,7 +3,7 @@
 ### Born2beroot - 42 Cursus
 
 ##### This project is focussed in introduce the students into the virtualization world. We must set up a stable version of Debian (CentOS is an option too), without any graphical interface. Only a signature.txt file is upload to the repository, it is a shasum number of my virtual machine file.  
-#####During this set up we must complain a list of requirements like:
+##### During this set up we must complain a list of requirements like:
 
 SOME REQUIREMENTS |
 ----------------- |
